@@ -2,13 +2,19 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
+</div>
 
 ## Matt Allen
 
 BI & Data Analyst with 4+ years of experience delivering dashboards, analytics, and automation to support data-driven decision-making and process improvement. Background in finance, business intelligence, and transformation, with a focus on translating complex requirements into clear, reliable insights.
 
 Specialties: Tableau, SQL, Python, Power Automate, and stakeholder-facing reporting.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tableau,python,excel,vscode" alt="Skills and tools"/>
+  </a>
+</p>
 
 ## Key Skills
 
