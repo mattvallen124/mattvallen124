@@ -1,36 +1,44 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-</div>
-
 ## Matt Allen
 
 BI & Data Analyst with 4+ years of experience delivering dashboards, analytics, and automation to support data-driven decision-making and process improvement. Background in finance, business intelligence, and transformation, with a focus on translating complex requirements into clear, reliable insights.
 
 Specialties: Tableau, SQL, Python, Power Automate, and stakeholder-facing reporting.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tableau,python,excel,vscode" alt="Skills and tools"/>
-  </a>
-</p>
+## Key Skills & Tools
 
-## Key Skills
+<div align="left">
+  <strong>Data & BI</strong><br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,sqlserver,excel" width="120"/>
+</div>
 
-**Data & BI**
-- SQL (advanced querying), data modelling, dashboard design, data storytelling
-- Tableau, Tableau Prep
+▸ Tableau, Tableau Prep  
+▸ SQL (advanced querying), data modelling, dashboard design, data storytelling  
 
-**Automation & Analysis**
-- Python (automation and data preparation)
-- Power Automate, workflow optimisation
+<div align="left">
+  <strong>Automation & Analysis</strong><br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,powerautomate" width="80"/>
+</div>
 
-**Data Platforms**
-- MS SQL Server, Snowflake
+▸ Python (automation and data preparation)  
+▸ Power Automate, workflow optimisation  
 
-**Business & Delivery**
-- Requirements gathering, stakeholder engagement, process mapping
+<div align="left">
+  <strong>Data Platforms</strong><br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,snowflake" width="80"/>
+</div>
+
+▸ MS SQL Server  
+▸ Snowflake  
+
+<div align="left">
+  <strong>Business & Delivery</strong><br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visio,lucidchart,word" width="120"/>
+</div>
+
+▸ Requirements gathering  
+▸ Stakeholder engagement  
+▸ Process mapping (Visio & Lucid Charts)
+
 
 ## Featured Projects
 
@@ -42,4 +50,4 @@ Future projects will include documented notebooks and dashboard examples demonst
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/matt-allen-81242563/
+▪ LinkedIn: https://www.linkedin.com/in/matt-allen-81242563/
